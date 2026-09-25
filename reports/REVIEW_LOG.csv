@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0182.jpg,xe không được xác định ở làn đường khác,added,Khoanh box bao lấy xe
+1,frame_0392.jpg,box không bao quanh được xe bus,edited,vẽ box bao quanh xe
+1,frame_0107.jpg,xe bị bỏ sót ở phía xa,added,Thêm box vì xe vẫn nhìn thấy đủ thân xe và là xe hợp lệ
